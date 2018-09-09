@@ -348,8 +348,8 @@ post_wordcount:
 
 # Reward settings
 reward_comment: 这是我的原创文章，如果觉得不错，可以打个赏~
-wechatpay: /assets/images/wechat-reward-image.JPG
- 
+wechatpay: /assets/images/IMG_3023.JPG
+
 
 # Declare license on posts
 post_copyright:
