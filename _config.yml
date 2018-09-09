@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 柳柳
+title: 柳的博客
 subtitle: 
 description: 
-author: 唐 柳
+author: 唐柳
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -246,7 +246,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.jpg
+avatar: /assets/images/20160526_192509.jpg
 
 
 # Table Of Contents in the Sidebar
