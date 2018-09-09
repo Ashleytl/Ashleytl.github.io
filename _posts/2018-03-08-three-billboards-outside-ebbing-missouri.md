@@ -3,7 +3,7 @@ layout: post
 title: 三块广告牌
 date: 2017-12-16
 categories: article
-tags: write
+tags: movie
 ---
 
 密苏里州的埃宾小镇（此小镇是一个虚构的地方，真实拍摄在美国东南部的北卡罗来纳州（North Carolina）的一个叫席尔瓦（Sylva）的山区小镇。），那里峦山叠叠，满山绿色尽收眼中，山底下，在房屋绿色草坪中间只剩下蜿蜒笔直干净的道路。
