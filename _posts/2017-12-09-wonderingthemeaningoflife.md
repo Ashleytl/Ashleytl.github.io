@@ -6,8 +6,6 @@ categories: article
 tags: write
 ---
 
-## 人生意义几何
-
 
 夜晚的小黄光，收一束灰尘，只有它们欢快共舞的声音，时间静止。
 
