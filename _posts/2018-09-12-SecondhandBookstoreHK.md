@@ -13,14 +13,14 @@ tags: write
 
 香港旧楼电梯实在叫人担心，电梯门大概是比一个人肩宽多一点，人进去后，它即可自动关门，且起落幅度大，好怕就这样直接掉下去了。好友先进，我还没来得及，门关上了，她坐了一层后面从楼梯钻出来说：这太可怕了。进楼两边墙壁布满广告贴纸，粉的红的，内容是按摩，美容，美甲，英文中文，不免给人一种奇异感。最后，朋友用google搜索，找到位于皇后大道中的书店《流动的心》flowbooks又名lily bookshop，整个寻店过程，用足差不多半小时，还好进店那一刻，望见堆满眼的书，露见欣喜。
 
-![lilybookshopinside.jpg](https://upload-images.jianshu.io/upload_images/8129800-c68b50d5ff2a53b2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![lilybookshopinside.jpg](https://upload-images.jianshu.io/upload_images/8129800-c68b50d5ff2a53b2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
 
 
 书店里多是英文书，中文的较少，书类价格从20-60港币不等，价格消费中等，当然一些绝版书籍也有卖出几百几千的。最后书没买几本，先和老板娘打了个熟面。她在港生活二十余年，她的英文名如书店名叫Lily。聊开几句，我笑说，你的一颦一笑蛮像我一个朋友，她也住香港。后面找出照片给她看，她点头道：「嗯，是有点像」，再一说她是重庆人，我激动拍手说：「原来如此，我朋友也是重庆人」，两人即可相视大笑起来。
 
 知道董桥先生今年三月光顾此店，如若不是董的友人在旁提及，可能她也认不出他来。听说董个头瘦高，与相片有差异，不易认出。老板娘想要他的签名，但店里没有董的书，董桥改用马克笔在一张对联红的纸上写了「兴旺」两字，签名落笔，挂在收银结账旁的墙壁上。现在侧面的书架，她特意留了两本董桥的书，不打算卖，只等董桥。 
 
-![兴旺·董桥.jpg](https://upload-images.jianshu.io/upload_images/8129800-1098a0570b0de034.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![兴旺·董桥.jpg](https://upload-images.jianshu.io/upload_images/8129800-1098a0570b0de034.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
 
 
 ## 美丽旺角
@@ -29,14 +29,14 @@ tags: write
 
 我们行至坐落于旺角与太子间的二手书店《我的书店》，进门几步即眼中陈的书，这些是之前一直想买的，想不到却在这里碰到。书店两层楼高，店里空闲之处都摞满了书，从哲学经济文学艺术等各学科，像足样的综合书店。香港地方小，有这样的小两层已是不错，藏书多，节约空间，在书架与书架之间，你就得侧身而过了。书架陈列分哲学，文学，中国近代文学，香港文学，还有学生学习等书籍。书店价位很划算，大都是20-30港币一本。
 
-![我的书房内景](https://upload-images.jianshu.io/upload_images/8129800-dd2102722dc4f190.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![我的书房内景](https://upload-images.jianshu.io/upload_images/8129800-dd2102722dc4f190.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
 
 
 搜罗到几本陈的书，待我递给店员小哥，他戴着黑框眼镜，下面那双出神的眼睛煞事看了我一眼，买单时聊天得知他原来就是陈的学生，未上过大学，在跟陈习国学易经等，还推荐了一本他正习读的书。我说普通话，他说粤语，这样好似也无碍沟通。这家书店是一位老父亲开的，离这不远处，大概三四分钟路程，他儿子在营业另一家店面，书更多，只是那家显得更杂乱了些，也可能是我们一整天的瞎逛后，腿脚乏累，无心再细细遇见惊喜。里面待十几分钟后，好友买了两本瑜伽书，我们便离去。
 
 从店出来，已是温润夕阳，远处落下的天景，显得异常惬意与美丽。
 
-![Mongkokevening.jpg](https://upload-images.jianshu.io/upload_images/8129800-4151056e74b712e4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Mongkokevening.jpg](https://upload-images.jianshu.io/upload_images/8129800-4151056e74b712e4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 
 
 我不算什么饱读诗书者，且没看过太多书，之前网络上OK先生说，「读书的人未必喜欢藏书，猎书的人也有不读书的。」我可能只是对这种猎书形式产生了更多好奇而已。
