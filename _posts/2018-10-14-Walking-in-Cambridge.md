@@ -1,3 +1,12 @@
+---
+layout: post
+title: Walking in Cambridge
+date: 2018-10-14
+categories: article
+tags: essay
+---
+
+
 随广场悠扬的竖琴声，步入剑桥校园
 
 踏着揉碎的榆叶，嗅着散发的金黄味道
@@ -6,11 +15,13 @@
 
 但也有沉思的气息
 
-倚桥托腮，凝望河上的船，水波 
+倚桥托腮，凝望河上的船，水波
 
 纹路悠然
 
 如竖琴，声声涟漪
+
+
 
 
 ![fullsizeoutput_2541](https://user-images.githubusercontent.com/11972077/46915824-e87f9000-cfe3-11e8-8158-159fc5299022.jpeg)
