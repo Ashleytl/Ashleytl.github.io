@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walking in Cambridge
+title: 闲步剑桥
 date: 2018-10-14
 categories: article
 tags: essay
