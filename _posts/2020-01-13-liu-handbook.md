@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Liu 使用指南
+title: Liuliu 使用指南
 date: 2020-01-13
 categories: article
 tags: writing
 ---
 
-### Liu使用指南
+### Liuliu 使用指南
 #### Skill 
 
 * 较擅长：
