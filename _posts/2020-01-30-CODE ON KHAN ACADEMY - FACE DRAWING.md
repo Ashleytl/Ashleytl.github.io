@@ -1,12 +1,12 @@
 ---
 layout: post
-title: CODE ON KHAN ACADEMY - FACE DRAWING
+title: Drawing with Code on KHAN ACADEMY - Face drawing
 date: 2020-01-30
 categories: article
 tags: writing
 ---
 
-## CODE ON KHAN ACADEMY - FACE
+## Drawing with code on KHAN ACADEMY - Face Drawing
 
  > 假期学习
 
